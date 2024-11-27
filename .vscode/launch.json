@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: IPStackDLL.ConsoleApp",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\IPStackDLL.ConsoleApp\\IPStackDLL.ConsoleApp.csproj",
+            "launchConfigurationId": "TargetFramework=;IPStackDLL.ConsoleApp"
+        }
+    ]
+}
